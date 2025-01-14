@@ -1,6 +1,5 @@
-
-
 # 🎵 Music Player Web Application
+
 Bu proje, kullanıcıların şarkı listelerini kolayca yönetip oynatmalarını sağlayan bir müzik çalar web uygulamasıdır. Modern bir arayüz ve temel medya oynatma özellikleri ile basit ve etkili bir deneyim sunar.
 
 # 📋 Özellikler
@@ -22,3 +21,7 @@ HTML5: Sayfa yapısını oluşturmak için kullanıldı.
 CSS3: Görsel düzenlemeler ve stiller oluşturuldu.
 
 JavaScript: Müzik çalar işlevselliğini sağlamak için dinamik özellikler oluşturuldu.
+
+# 📸 Ekran Görüntüsü
+
+![](ekran.gif)
