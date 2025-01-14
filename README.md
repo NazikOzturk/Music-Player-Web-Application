@@ -19,6 +19,6 @@ Bu proje, kullanıcıların şarkı listelerini kolayca yönetip oynatmalarını
 
 HTML5: Sayfa yapısını oluşturmak için kullanıldı.
 
-CSS3: Görsel düzenlemeler ve stiller.
+CSS3: Görsel düzenlemeler ve stiller oluşturuldu.
 
-JavaScript: Müzik çalar işlevselliğini sağlamak için dinamik özellikler.
+JavaScript: Müzik çalar işlevselliğini sağlamak için dinamik özellikler oluşturuldu.
